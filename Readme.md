@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
 
 # Hi, I'm Vivek Karmakar 👋🏻👨🏻‍💻,
@@ -8,7 +8,7 @@ an undergraduate student passionate about honing my skills in full-stack develop
 
 ## Skills and Focus Areas
 
-- **Web Development**: Learning <i class="fa-brands fa-html5"></i> HTML,CSS,JavaScript, and related frameworks for crafting interactive web experiences.
+- **Web Development**: Learning <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg> HTML,CSS,JavaScript, and related frameworks for crafting interactive web experiences.
 - **Full-Stack Development**: Working towards mastering both front-end and back-end development technologies.
 - **Python Automation**: Delving into Python scripting for automating tasks and enhancing productivity.
 - **Version Control**: Proficient in using Git for version control and collaboration.
