@@ -4,7 +4,7 @@
 # Hi, I'm Vivek Karmakar 👋🏻👨🏻‍💻,
 
 <img src="https://github.com/VIVEK-KARMAKAR/VIVEK-KARMAKAR/blob/main/banner.png" alt="banner that says vivek-karmakar+web-developer">
-an undergraduate student passionate about honing my skills in full-stack development. While I'm currently in the process of building my project portfolio, this repository serves as a starting point to document my journey and showcase my progress.
+An undergraduate student passionate about honing my skills in full-stack development. While I'm currently in the process of building my project portfolio, this repository serves as a starting point to document my journey and showcase my progress.
 
 ## Skills and Focus Areas
 
