@@ -9,7 +9,7 @@ An undergraduate student passionate about honing my skills in full-stack develop
 ## Skills and Focus Areas
 
 - **Web Development**: Learning HTML,CSS,JavaScript, and related frameworks for crafting interactive web experiences.
-- **Full-Stack Development**: Working towards mastering both front-end and back-end development technologies.
+- **MERN-Stack Development**: Working towards mastering both front-end and back-end development technologies.
 - **Python Automation**: Delving into Python scripting for automating tasks and enhancing productivity.
 - **Version Control**: Proficient in using Git for version control and collaboration.
 ## Currently Learning
